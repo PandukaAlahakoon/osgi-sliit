@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DB_Bundle
+Bundle-SymbolicName: DB_Bundle
+Bundle-Version: 1.0.0
+Automatic-Module-Name: DB_Bundle
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
